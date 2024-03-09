@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+
+.chihuahua{
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
